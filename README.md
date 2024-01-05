@@ -74,3 +74,12 @@ as an indicator. CNS Drugs 24, 611–620. https://doi.org/10.2165/11531570-00000
 00000
 • Wikipedia. (2021, November 26). Preserved counties of Wales. Preserved counties of
 Wales - Wikipedia
+
+
+
+# Project 2: Data analysis for "Ethnic variation in asthma phenotypic presentation and outcomes: a cross-sectional analysis of the UK biobank" paper
+
+This is a replication of the data analysis for a [published paper](https://thorax.bmj.com/content/early/2023/12/07/thorax-2023-221101) examining ethnic disparities within asthma care in the UK.
+
+- It describes demographic and clinical characteristics of doctor-diagnosed asthma participants by self-reported ethnicity and country of birth within the UK Biobank.
+- Graphs were used to illustrate the deviation of Ethnicity-adjusted equations from the Global Lung Initiative from normal.
