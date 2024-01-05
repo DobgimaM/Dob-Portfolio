@@ -37,8 +37,8 @@ prescribing at a practice level, checking for any statistical relationships betw
 This is work replicates the original data analysis for a [published paper](https://thorax.bmj.com/content/early/2023/12/07/thorax-2023-221101) examining ethnic disparities within asthma care in the UK.
 
 **Description**
-- It describes demographic and clinical characteristics of doctor-diagnosed asthma participants by self-reported ethnicity and country of birth within the UK Biobank.
-- ggplot2 graphs were used to illustrate the deviation of Ethnicity-adjusted equations from the Global Lung Initiative using properties of the standard normal distribution.
+- It explores demographic and clinical characteristics of doctor-diagnosed asthma participants by self-reported ethnicity and country of birth within the UK Biobank.
+- ggplot2 graphs were used to illustrate the deviation of Ethnicity-adjusted equations from the Global Lung Initiative using properties of the Standard Normal Distribution.
 
+It shows scatter of z-scores and median z-scores (solid lines) of forced expiratory volume in 1s (FEV1), forced vital capacity (FVC) and FEV1/FVC in males and females by age, height and study site. Dashed lines represent the 5th and 95th centiles
 ![](https://github.com/DobgimaM/Dob_portfolio/blob/main/Scatter%20plots.png)
-
