@@ -30,6 +30,7 @@ for Wales as a comparison.
 4. Perform an all-Wales analysis comparing the rate of hypertension and the rate of insulin
 prescribing at a practice level, checking for any statistical relationships between the two.
 <br>
+<br>
 
 ## Project 2: [Replication of analysis in "Ethnic variation in asthma phenotypic presentation and outcomes: a cross-sectional analysis of the UK biobank" paper](https://github.com/DobgimaM/Data-analysis-for-respiratory-health-data)
 
@@ -44,7 +45,8 @@ This is work extends the analysis for a [published paper](https://thorax.bmj.com
 **Description**
 - It explores demographic and clinical characteristics of doctor-diagnosed asthma participants by self-reported ethnicity and country of birth within the UK Biobank.
 - ggplot2 graphs were used to illustrate the deviation of Ethnicity-adjusted equations from the Global Lung Initiative using properties of the Standard Normal Distribution.
-
+<br>
+<br>
 
 ## Project 3: Road traffic crashes in Bradford
 
