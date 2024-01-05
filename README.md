@@ -1,4 +1,4 @@
-# DobPortfolio
+# Dob portfolio
 
 ## Project 1: [Database of practices in Wales](https://github.com/DobgimaM/Wales-database)
 *Languages:* R, SQL
