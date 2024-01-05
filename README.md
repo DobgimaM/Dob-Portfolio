@@ -58,7 +58,8 @@ Insights into road traffic crashes in Bradford using road traffic crash data for
 <img src="https://github.com/DobgimaM/Road-accidents-in-Bradford/blob/main/Casualty%20and%20accident%20rates.png" width="500" />
 
 **Description**
-It explores Road traffic accidents in Bradford looking at
+
+This project explores Road traffic accidents in Bradford looking at
 - Descriptives
 - Accident age groups with over 200 casualties
 - Weather and road surface conditions for age groups with over 200 casualties
