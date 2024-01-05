@@ -35,7 +35,7 @@ prescribing at a practice level, checking for any statistical relationships betw
 
 ## Project 2: [Replication of analysis in "Ethnic variation in asthma phenotypic presentation and outcomes: a cross-sectional analysis of the UK biobank" paper](https://github.com/DobgimaM/Data-analysis-for-respiratory-health-data)
 
-This is work replicates the original data analysis for a [published paper](https://thorax.bmj.com/content/early/2023/12/07/thorax-2023-221101) examining ethnic disparities within asthma care in the UK.
+This is work extends the analysis for a [published paper](https://thorax.bmj.com/content/early/2023/12/07/thorax-2023-221101) examining ethnic disparities within asthma care in the UK.
 
 **Fig: Scatterplot of z-scores and median z-scores (solid lines) of forced expiratory volume in 1s (FEV1), forced vital capacity (FVC) and FEV1/FVC in males and females by age, height and study site. Dashed lines represent the 5th and 95th centiles**
 <img src="https://github.com/DobgimaM/Dob_portfolio/blob/main/Scatter%20plots.png" width="500" />
