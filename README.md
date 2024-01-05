@@ -1,7 +1,8 @@
 # Dob_portfolio
 
 ## Project 1: [Database of practices in Wales](https://github.com/DobgimaM/Wales-database)
-Software using publicly available data of different counties in Wales to report epidemiological information 
+Software using publicly available datasets of different counties in Wales to report epidemiological information 
+
 Datasets used for the software include:
 
 • [General Practice Prescribing Data Extract for Wales](http://www.primarycareservices.wales.nhs.uk/general-practice-prescribing-dataextrac)
