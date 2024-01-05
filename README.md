@@ -38,4 +38,4 @@ This is work replicates the original data analysis for a [published paper](https
 - Graphs were used to illustrate the deviation of Ethnicity-adjusted equations from the Global Lung Initiative from normal.
 
 
-# Project 3: 
+## Project 3: 
