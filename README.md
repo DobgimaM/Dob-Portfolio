@@ -3,6 +3,12 @@ Portfolio
 
 # Project 1: [Database of practices in Wales](https://github.com/DobgimaM/Wales-database)
 Software using publicly available data of different counties in Wales to report epidemiological information 
+Data used for the software is:
+
+• [General Practice Prescribing Data Extract for Wales](http://www.primarycareservices.wales.nhs.uk/general-practice-prescribing-dataextrac)
+ 
+• [QOF Results for Wales, 2015](https://www.gpcontract.co.uk/browse/WAL/15)
+
 
 **Description**
 A program that allows a non-technical user to
@@ -21,12 +27,6 @@ for Wales as a comparison.
 
 4. Perform an all-Wales analysis comparing the rate of hypertension and the rate of insulin
 prescribing at a practice level, checking for any statistical relationships between the two.
-
-• [General Practice Prescribing Data Extract for Wales](http://www.primarycareservices.wales.nhs.uk/general-practice-prescribing-dataextrac)
- 
-• [QOF Results for Wales, 2015](https://www.gpcontract.co.uk/browse/WAL/15)
-
-
 
 
 
