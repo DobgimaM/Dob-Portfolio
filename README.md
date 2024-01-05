@@ -2,7 +2,7 @@
 
 ## Project 1: [Database of practices in Wales](https://github.com/DobgimaM/Wales-database)
 *Languages:* R, SQL
-Software using publicly available datasets of different counties in Wales to report epidemiological information 
+- Software using publicly available datasets of different counties in Wales to report epidemiological information 
 
 Datasets used for the software include:
 
