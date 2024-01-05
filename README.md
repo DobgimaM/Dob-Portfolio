@@ -36,6 +36,7 @@ prescribing at a practice level, checking for any statistical relationships betw
 
 *Language:* R
 
+**Description**
 This is work extends the analysis for a [published paper](https://thorax.bmj.com/content/early/2023/12/07/thorax-2023-221101) examining ethnic disparities within asthma care in the UK.
 
 **Fig: Scatterplot of z-scores and median z-scores (solid lines) of forced expiratory volume in 1s (FEV1), forced vital capacity (FVC) and FEV1/FVC in males and females by age, height and study site. Dashed lines represent the 5th and 95th centiles**
@@ -68,7 +69,7 @@ It explores Road traffic accidents in Bradford looking at
 
 ## Project 4: [Machine Learning techniques to develop an algorithm that predicts admissions to a hospital's emergency department.](https://www.kaggle.com/code/blakptico/group-8-ed-dataset) 
 *Language:* Python
-
+**Description**
 A Kaggle-based project to predict accident and emergency admission on synthetic data
 
 <img src="https://github.com/DobgimaM/Dob_portfolio/blob/main/Feature%20selection.png" width="500" />
