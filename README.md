@@ -8,7 +8,6 @@ Datasets used for the software include:
  
 • [QOF Results for Wales, 2015](https://www.gpcontract.co.uk/browse/WAL/15)
 
-
 **Description**
 A program that allows a non-technical user to
 
