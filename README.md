@@ -1,6 +1,7 @@
 # Dob_portfolio
 
 ## Project 1: [Database of practices in Wales](https://github.com/DobgimaM/Wales-database)
+*Languages:* R, SQL
 Software using publicly available datasets of different counties in Wales to report epidemiological information 
 
 Datasets used for the software include:
@@ -42,5 +43,5 @@ This is work replicates the original data analysis for a [published paper](https
 
 
 
-**Fig: Scatter of z-scores and median z-scores (solid lines) of forced expiratory volume in 1s (FEV1), forced vital capacity (FVC) and FEV1/FVC in males and females by age, height and study site. Dashed lines represent the 5th and 95th centiles**
+**Fig: Scatterplot of z-scores and median z-scores (solid lines) of forced expiratory volume in 1s (FEV1), forced vital capacity (FVC) and FEV1/FVC in males and females by age, height and study site. Dashed lines represent the 5th and 95th centiles**
 ![](https://github.com/DobgimaM/Dob_portfolio/blob/main/Scatter%20plots.png)
