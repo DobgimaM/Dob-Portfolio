@@ -1,7 +1,7 @@
 # Dob_portfolio
 Portfolio
 
-# Project 1: Wales-database
+# Project 1: [Wales-database](https://github.com/DobgimaM/Wales-database)
 Database of practices in Wales
 
 **Introduction**
