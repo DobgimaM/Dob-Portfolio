@@ -2,6 +2,8 @@
 
 ## Project 1: [Database of practices in Wales](https://github.com/DobgimaM/Wales-database)
 *Languages:* R, SQL
+
+![](https://github.com/DobgimaM/Road-accidents-in-Bradford/blob/main/Hypertension%20rate%20in%20a%20selected%20practice%20in%20Dyfed.png)
 - Software using publicly available datasets of different counties in Wales to report epidemiological information 
 
 Datasets used for the software include:
