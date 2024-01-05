@@ -34,6 +34,8 @@ prescribing at a practice level, checking for any statistical relationships betw
 
 ## Project 2: [Replication of analysis in "Ethnic variation in asthma phenotypic presentation and outcomes: a cross-sectional analysis of the UK biobank" paper](https://github.com/DobgimaM/Data-analysis-for-respiratory-health-data)
 
+*Language:* R
+
 This is work extends the analysis for a [published paper](https://thorax.bmj.com/content/early/2023/12/07/thorax-2023-221101) examining ethnic disparities within asthma care in the UK.
 
 **Fig: Scatterplot of z-scores and median z-scores (solid lines) of forced expiratory volume in 1s (FEV1), forced vital capacity (FVC) and FEV1/FVC in males and females by age, height and study site. Dashed lines represent the 5th and 95th centiles**
@@ -50,6 +52,8 @@ This is work extends the analysis for a [published paper](https://thorax.bmj.com
 
 ## Project 3: Road traffic crashes in Bradford
 
+*Language:* R
+
 <img src="https://github.com/DobgimaM/Road-accidents-in-Bradford/blob/main/Casualty%20and%20accident%20rates.png" width="500" />
 
 Insights into road traffic crashes in Bradford using road traffic crash data for the Bradford Council area for the years 2018-2020 from [DfT data](https://www.gov.uk/government/publications/road-accidents-and-safety-statistics-notes-and-definitions/reported-road-casualties-in-great-britain-notes-definitions-symbols-and-conventions)
@@ -59,3 +63,9 @@ It explores Road traffic accidents in Bradford looking at
 - Descriptives
 - Accident age groups with over 200 casualties
 - Weather and road surface conditions for age groups with over 200 casualties
+
+## Project 4: Machine Learning techniques to develop an algorithm that predicts admissions to the hospital's emergency department.
+*Language:* Python
+[HDRUK internship project](https://www.kaggle.com/code/blakptico/group-8-ed-dataset)
+
+A Kaggle-based project using Logistic Regression with Ridge Regularization, Decision Trees, Random Forest using GridCV, XGBoost, K-Nearest Neighbours and Deep Neural Network to develop a predictive model for hospital admissions on synthetic data.
