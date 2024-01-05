@@ -63,6 +63,8 @@ It explores Road traffic accidents in Bradford looking at
 - Descriptives
 - Accident age groups with over 200 casualties
 - Weather and road surface conditions for age groups with over 200 casualties
+<br>
+<br>
 
 ## Project 4: Machine Learning techniques to develop an algorithm that predicts admissions to the hospital's emergency department.
 *Language:* Python
