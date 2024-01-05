@@ -28,6 +28,9 @@ prescribing at a practice level, checking for any statistical relationships betw
 
 
 
+
+
+
 ## Project 2: [Data analysis for "Ethnic variation in asthma phenotypic presentation and outcomes: a cross-sectional analysis of the UK biobank" paper](https://github.com/DobgimaM/Data-analysis-for-respiratory-health-data)
 
 This is work replicates the original data analysis for a [published paper](https://thorax.bmj.com/content/early/2023/12/07/thorax-2023-221101) examining ethnic disparities within asthma care in the UK.
