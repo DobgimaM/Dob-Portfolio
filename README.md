@@ -68,8 +68,10 @@ It explores Road traffic accidents in Bradford looking at
 
 ## Project 4: Machine Learning techniques to develop an algorithm that predicts admissions to the hospital's emergency department.
 *Language:* Python
-[HDRUK internship project](https://www.kaggle.com/code/blakptico/group-8-ed-dataset)
+
+
+An [HDRUK internship project](https://www.kaggle.com/code/blakptico/group-8-ed-dataset) to predict accident and emergency admission using synthetic data on Kaggle
 
 <img src="https://github.com/DobgimaM/Dob_portfolio/blob/main/Feature%20selection.png" width="500" />
 
-A Kaggle-based project using Logistic Regression with Ridge Regularization, Decision Trees, Random Forest using GridCV, XGBoost, K-Nearest Neighbours and Deep Neural Network to develop a predictive model for hospital admissions on synthetic data.
+This project uses Logistic Regression with Ridge Regularization, Decision Trees, Random Forest using GridCV, XGBoost, K-Nearest Neighbours and Deep Neural Network to develop a predictive model for hospital admissions
