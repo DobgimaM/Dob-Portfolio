@@ -66,10 +66,10 @@ It explores Road traffic accidents in Bradford looking at
 <br>
 <br>
 
-## Project 4: [Machine Learning techniques to develop an algorithm that predicts admissions to the hospital's emergency department.](https://www.kaggle.com/code/blakptico/group-8-ed-dataset) to predict accident and emergency admission using synthetic data on Kaggle
+## Project 4: [Machine Learning techniques to develop an algorithm that predicts admissions to the hospital's emergency department.](https://www.kaggle.com/code/blakptico/group-8-ed-dataset) 
 *Language:* Python
 
-A Kaggle project
+A Kaggle-based project to predict accident and emergency admission on synthetic data
 
 <img src="https://github.com/DobgimaM/Dob_portfolio/blob/main/Feature%20selection.png" width="500" />
 
