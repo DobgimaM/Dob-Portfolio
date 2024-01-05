@@ -1,7 +1,6 @@
 # Dob_portfolio
-Portfolio
 
-# Project 1: [Database of practices in Wales](https://github.com/DobgimaM/Wales-database)
+## Project 1: [Database of practices in Wales](https://github.com/DobgimaM/Wales-database)
 Software using publicly available data of different counties in Wales to report epidemiological information 
 Data used for the software is:
 
@@ -31,7 +30,7 @@ prescribing at a practice level, checking for any statistical relationships betw
 
 
 
-# Project 2: [Data analysis for "Ethnic variation in asthma phenotypic presentation and outcomes: a cross-sectional analysis of the UK biobank" paper](https://github.com/DobgimaM/Data-analysis-for-respiratory-health-data)
+## Project 2: [Data analysis for "Ethnic variation in asthma phenotypic presentation and outcomes: a cross-sectional analysis of the UK biobank" paper](https://github.com/DobgimaM/Data-analysis-for-respiratory-health-data)
 
 This is a replication of the data analysis for a [published paper](https://thorax.bmj.com/content/early/2023/12/07/thorax-2023-221101) examining ethnic disparities within asthma care in the UK.
 
