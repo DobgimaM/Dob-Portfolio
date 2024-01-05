@@ -29,9 +29,7 @@ for Wales as a comparison.
 
 4. Perform an all-Wales analysis comparing the rate of hypertension and the rate of insulin
 prescribing at a practice level, checking for any statistical relationships between the two.
-
-[]
-[]
+<br>
 
 ## Project 2: [Replication of analysis in "Ethnic variation in asthma phenotypic presentation and outcomes: a cross-sectional analysis of the UK biobank" paper](https://github.com/DobgimaM/Data-analysis-for-respiratory-health-data)
 
