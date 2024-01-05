@@ -47,3 +47,9 @@ This is work replicates the original data analysis for a [published paper](https
 
 **Fig: Scatterplot of z-scores and median z-scores (solid lines) of forced expiratory volume in 1s (FEV1), forced vital capacity (FVC) and FEV1/FVC in males and females by age, height and study site. Dashed lines represent the 5th and 95th centiles**
 ![](https://github.com/DobgimaM/Dob_portfolio/blob/main/Scatter%20plots.png)
+
+
+## Project 3: Road traffic crashes in Bradford
+![](https://github.com/DobgimaM/Road-accidents-in-Bradford/blob/main/Casualty%20and%20accident%20rates.png)
+
+Insights into road traffic crashes in Bradford using road traffic crash data for the Bradford Council area for the years 2018-2020 from [DfT data](https://www.gov.uk/government/publications/road-accidents-and-safety-statistics-notes-and-definitions/reported-road-casualties-in-great-britain-notes-definitions-symbols-and-conventions)
