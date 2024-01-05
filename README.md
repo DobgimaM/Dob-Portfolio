@@ -70,4 +70,6 @@ It explores Road traffic accidents in Bradford looking at
 *Language:* Python
 [HDRUK internship project](https://www.kaggle.com/code/blakptico/group-8-ed-dataset)
 
+<img src="https://github.com/DobgimaM/Dob_portfolio/blob/main/Feature%20selection.png" width="500" />
+
 A Kaggle-based project using Logistic Regression with Ridge Regularization, Decision Trees, Random Forest using GridCV, XGBoost, K-Nearest Neighbours and Deep Neural Network to develop a predictive model for hospital admissions on synthetic data.
