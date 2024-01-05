@@ -2,7 +2,7 @@
 
 ## Project 1: [Database of practices in Wales](https://github.com/DobgimaM/Wales-database)
 Software using publicly available data of different counties in Wales to report epidemiological information 
-Data used for the software is:
+Datasets used for the software include:
 
 • [General Practice Prescribing Data Extract for Wales](http://www.primarycareservices.wales.nhs.uk/general-practice-prescribing-dataextrac)
  
@@ -36,6 +36,6 @@ This is work replicates the original data analysis for a [published paper](https
 
 **Description**
 - It describes demographic and clinical characteristics of doctor-diagnosed asthma participants by self-reported ethnicity and country of birth within the UK Biobank.
-- ggplot2 graphs were used to illustrate the deviation of Ethnicity-adjusted equations from the Global Lung Initiative using the standard normal distribution.
+- ggplot2 graphs were used to illustrate the deviation of Ethnicity-adjusted equations from the Global Lung Initiative using properties of the standard normal distribution.
 
 
