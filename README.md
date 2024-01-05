@@ -34,7 +34,8 @@ prescribing at a practice level, checking for any statistical relationships betw
 
 This is work replicates the original data analysis for a [published paper](https://thorax.bmj.com/content/early/2023/12/07/thorax-2023-221101) examining ethnic disparities within asthma care in the UK.
 
+**Description**
 - It describes demographic and clinical characteristics of doctor-diagnosed asthma participants by self-reported ethnicity and country of birth within the UK Biobank.
-- Graphs were used to illustrate the deviation of Ethnicity-adjusted equations from the Global Lung Initiative from normal.
+- ggplot2 graphs were used to illustrate the deviation of Ethnicity-adjusted equations from the Global Lung Initiative using the standard normal distribution.
 
 
