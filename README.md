@@ -49,8 +49,7 @@ This is work replicates the original data analysis for a [published paper](https
 
 
 ## Project 3: Road traffic crashes in Bradford
-<img src="https://github.com/DobgimaM/Road-accidents-in-Bradford/blob/main/Casualty%20and%20accident%20rates.png" width="500" />
 
-![](https://github.com/DobgimaM/Road-accidents-in-Bradford/blob/main/Casualty%20and%20accident%20rates.png)
+<img src="https://github.com/DobgimaM/Road-accidents-in-Bradford/blob/main/Casualty%20and%20accident%20rates.png" width="500" />
 
 Insights into road traffic crashes in Bradford using road traffic crash data for the Bradford Council area for the years 2018-2020 from [DfT data](https://www.gov.uk/government/publications/road-accidents-and-safety-statistics-notes-and-definitions/reported-road-casualties-in-great-britain-notes-definitions-symbols-and-conventions)
