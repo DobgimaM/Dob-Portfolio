@@ -10,7 +10,7 @@ using the following:
 
 • [General Practice Prescribing Data Extract for Wales](http://www.primarycareservices.wales.nhs.uk/general-practice-prescribing-dataextrac)
  
-• [QOF Results for Wales, 2015] (https://www.gpcontract.co.uk/browse/WAL/15)
+• [QOF Results for Wales, 2015](https://www.gpcontract.co.uk/browse/WAL/15)
 
 1.1 Program requirements
 The program requires a computer with R Studio software installed and working. The database
