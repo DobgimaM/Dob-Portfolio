@@ -32,7 +32,7 @@ prescribing at a practice level, checking for any statistical relationships betw
 <br>
 <br>
 
-## Project 2: [Replication of analysis in "Ethnic variation in asthma phenotypic presentation and outcomes: a cross-sectional analysis of the UK biobank" paper](https://github.com/DobgimaM/Data-analysis-for-respiratory-health-data)
+## Project 2: [Analysis for "Ethnic variation in asthma phenotypic presentation and outcomes: a cross-sectional analysis of the UK biobank" paper](https://github.com/DobgimaM/Data-analysis-for-respiratory-health-data)
 
 *Language:* R
 
