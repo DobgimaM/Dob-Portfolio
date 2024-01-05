@@ -45,7 +45,7 @@ This is work replicates the original data analysis for a [published paper](https
 
 <img src="https://github.com/DobgimaM/Dob_portfolio/blob/main/Scatter%20plots.png" width="500" />
 
-#![](https://github.com/DobgimaM/Dob_portfolio/blob/main/Scatter%20plots.png)
+%![](https://github.com/DobgimaM/Dob_portfolio/blob/main/Scatter%20plots.png)
 
 
 ## Project 3: Road traffic crashes in Bradford
