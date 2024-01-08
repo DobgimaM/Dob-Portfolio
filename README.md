@@ -1,4 +1,4 @@
-# Dob portfolio
+# I. Dob portfolio
 
 ## Data Analysis
 ### Project 1: [Database of practices in Wales](https://github.com/DobgimaM/Wales-database)
@@ -82,7 +82,7 @@ This project uses Logistic Regression with Ridge Regularization, Decision Trees,
 <br>
 <br>
 
-## Scientific illustrations
+## II. Scientific illustrations
 
 ![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/Lock%20and%20key%20model.png)
 
