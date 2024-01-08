@@ -80,16 +80,19 @@ This project uses Logistic Regression with Ridge Regularization, Decision Trees,
 
 ## Scientific illustrations
 
-**Illustration of the Lock and key model of enzyme\-substrate interaction**
 ![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/Lock%20and%20key%20model.png)
+**Fig1: Illustration of the Lock and key model of enzyme\-substrate interaction**
+
 <br>
 <br>
 
-**Illustration of Trypanosoma parasite mechanism of action**
+**Fig2: Illustration of Trypanosoma parasite mechanism of action**
+
 ![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/Trypanosoma%20mechanism.png)
 <br>
 <br>
 
-**Illustration of DNA helix, showing right and left twists**
+**Fig3: Illustration of DNA helix, showing right and left twists**
+
 ![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/DNA%20helix.png)
 
