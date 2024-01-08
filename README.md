@@ -87,9 +87,12 @@ This project uses Logistic Regression with Ridge Regularization, Decision Trees,
 <br>
 
 ![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/Trypanosoma%20mechanism.png)
+
 **Fig2: Illustration of Trypanosoma parasite mechanism of action**
 <br>
 <br>
+
 ![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/DNA%20helix.png)
+
 **Fig3: Illustration of DNA helix, showing right and left twists**
 
