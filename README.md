@@ -5,7 +5,7 @@
 *Languages:* R, SQL
 
 **Description**
-This project designs a software using publicly available datasets of different counties in Wales to report epidemiological information 
+This project designs a software which uses publicly available datasets of different counties in Wales to report epidemiological information 
 
 ![](https://github.com/DobgimaM/Wales-database/blob/main/Hypertension%20rate%20in%20a%20selected%20practice%20in%20Dyfed.png)
 
