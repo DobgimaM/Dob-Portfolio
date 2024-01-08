@@ -79,10 +79,19 @@ A Kaggle-based project to predict accident and emergency admission on synthetic 
 This project uses Logistic Regression with Ridge Regularization, Decision Trees, Random Forest using GridCV, XGBoost, K-Nearest Neighbours and Deep Neural Network to develop a predictive model for hospital admissions
 
 ## Scientific illustrations
-# 
+
+**Lock and key mechanism**
+Illustration of the Lock and key model of enzyme-substrate interaction
+
 ![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/Lock%20and%20key%20model.png)
 
+**Trypanosoma parasite**
+Illustration of the Lock and key model of enzyme-substrate interaction
+
 ![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/Trypanosoma%20mechanism.png)
+
+**DNA right and left-handed helices**
+Illustration of the Lock and key model of enzyme-substrate interaction
 
 ![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/DNA%20helix.png)
 
