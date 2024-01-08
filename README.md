@@ -40,7 +40,7 @@ prescribing at a practice level, checking for any statistical relationships betw
 
 **Fig: Scatterplot of z-scores and median z-scores (solid lines) of forced expiratory volume in 1s (FEV1), forced vital capacity (FVC) and FEV1/FVC in males and females by age, height and study site. Dashed lines represent the 5th and 95th centiles**
 
-<img src="https://github.com/DobgimaM/Dob_portfolio/blob/main/Scatter%20plots.png" width="500" />
+<img src="https://github.com/DobgimaM/Dob-G/blob/main/Scatter%20plots.png" width="500" />
 
 <!--[](https://github.com/DobgimaM/Dob_portfolio/blob/main/Scatter%20plots.png)-->
 
@@ -74,7 +74,7 @@ This project explores Road traffic accidents in Bradford looking at
 **Description**
 A Kaggle-based project to predict accident and emergency admission on synthetic data
 
-<img src="https://github.com/DobgimaM/Dob_portfolio/blob/main/Feature%20selection.png" width="500" />
+<img src="https://github.com/DobgimaM/Dob-G/blob/main/Feature%20selection.png" width="500" />
 
 This project uses Logistic Regression with Ridge Regularization, Decision Trees, Random Forest using GridCV, XGBoost, K-Nearest Neighbours and Deep Neural Network to develop a predictive model for hospital admissions
 <br>
@@ -84,19 +84,14 @@ This project uses Logistic Regression with Ridge Regularization, Decision Trees,
 
 ## II. Scientific illustrations
 
-![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/Lock%20and%20key%20model.png)
+![](https://github.com/DobgimaM/Dob-G/blob/main/Lock%20and%20key%20model.png)
 
 **Fig1: Illustration of the Lock and key model of enzyme\-substrate interaction**
 <br>
 <br>
 
-![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/Trypanosoma%20mechanism.png)
+![](https://github.com/DobgimaM/Dob-G/blob/main/Trypanosoma%20mechanism.png)
 
 **Fig2: Illustration of Trypanosoma parasite mechanism of action**
 <br>
 <br>
-
-![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/DNA%20helix.png)
-
-**Fig3: Illustration of DNA helix, showing right and left twists**
-
