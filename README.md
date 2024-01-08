@@ -90,8 +90,8 @@ Illustration of Trypanosoma sp. mechanism of action
 
 ![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/Trypanosoma%20mechanism.png)
 
-**DNA right and left-handed helices**
-Illustration of the Lock and key model of enzyme-substrate interaction
+**Illustration of DNA illustrating right and left twists**
+ the Lock and key model of enzyme-substrate interaction
 
 ![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/DNA%20helix.png)
 
