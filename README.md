@@ -77,6 +77,10 @@ A Kaggle-based project to predict accident and emergency admission on synthetic 
 <img src="https://github.com/DobgimaM/Dob_portfolio/blob/main/Feature%20selection.png" width="500" />
 
 This project uses Logistic Regression with Ridge Regularization, Decision Trees, Random Forest using GridCV, XGBoost, K-Nearest Neighbours and Deep Neural Network to develop a predictive model for hospital admissions
+<br>
+<br>
+<br>
+<br>
 
 ## Scientific illustrations
 
