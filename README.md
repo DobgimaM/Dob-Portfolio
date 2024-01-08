@@ -1,6 +1,6 @@
-# I. Dob portfolio
+# Dob portfolio
 
-## Data Analysis
+## I. Data Analysis
 ### Project 1: [Database of practices in Wales](https://github.com/DobgimaM/Wales-database)
 *Languages:* R, SQL
 
