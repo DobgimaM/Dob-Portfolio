@@ -1,6 +1,7 @@
 # Dob portfolio
 
-## Project 1: [Database of practices in Wales](https://github.com/DobgimaM/Wales-database)
+## Data Analysis
+### Project 1: [Database of practices in Wales](https://github.com/DobgimaM/Wales-database)
 *Languages:* R, SQL
 
 **Description**
@@ -33,7 +34,7 @@ prescribing at a practice level, checking for any statistical relationships betw
 <br>
 <br>
 
-## Project 2: [Analysis for "Ethnic variation in asthma phenotypic presentation and outcomes: a cross-sectional analysis of the UK biobank" paper](https://github.com/DobgimaM/Data-analysis-for-respiratory-health-data)
+### Project 2: [Analysis for "Ethnic variation in asthma phenotypic presentation and outcomes: a cross-sectional analysis of the UK biobank" paper](https://github.com/DobgimaM/Data-analysis-for-respiratory-health-data)
 
 *Language:* R
 
@@ -50,7 +51,7 @@ This is work extends the analysis for a [published paper](https://thorax.bmj.com
 <br>
 <br>
 
-## Project 3: Road traffic crashes in Bradford
+### Project 3: Road traffic crashes in Bradford
 
 *Language:* R
 
@@ -67,7 +68,7 @@ This project explores Road traffic accidents in Bradford looking at
 <br>
 <br>
 
-## Project 4: [Machine Learning techniques to develop an algorithm that predicts admissions to a hospital's emergency department.](https://www.kaggle.com/code/blakptico/group-8-ed-dataset) 
+### Project 4: [Machine Learning techniques to develop an algorithm that predicts admissions to a hospital's emergency department.](https://www.kaggle.com/code/blakptico/group-8-ed-dataset) 
 *Language:* Python
 
 **Description**
@@ -76,3 +77,7 @@ A Kaggle-based project to predict accident and emergency admission on synthetic 
 <img src="https://github.com/DobgimaM/Dob_portfolio/blob/main/Feature%20selection.png" width="500" />
 
 This project uses Logistic Regression with Ridge Regularization, Decision Trees, Random Forest using GridCV, XGBoost, K-Nearest Neighbours and Deep Neural Network to develop a predictive model for hospital admissions
+
+## Scientific illustrations
+
+# 
