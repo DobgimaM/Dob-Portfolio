@@ -47,7 +47,7 @@ prescribing at a practice level, checking for any statistical relationships betw
 **Description**
 This is work extends the analysis for a [published paper](https://thorax.bmj.com/content/early/2023/12/07/thorax-2023-221101) examining ethnic disparities within asthma care in the UK.
 - It explores demographic and clinical characteristics of doctor-diagnosed asthma participants by self-reported ethnicity and country of birth within the UK Biobank.
-- ggplot2 graphs were used to illustrate the deviation of Ethnicity-adjusted lung function using predicted spirometry parameters (FEV1, FVC and FEV1/FVC ratio) from the Standard Normal Distribution.
+- ggplot2 graphs were used to investigate the deviation of Ethnicity-adjusted lung function using predicted spirometry parameters (FEV1, FVC and FEV1/FVC ratio) from the Standard Normal Distribution.
 <br>
 <br>
 
