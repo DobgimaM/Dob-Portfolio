@@ -80,9 +80,9 @@ This project uses Logistic Regression with Ridge Regularization, Decision Trees,
 
 ## Scientific illustrations
 # 
-
-![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/DNA%20lock%20and%20key.png)
+![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/Lock%20and%20key%20model.png)
 
 ![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/Trypanosoma%20mechanism.png)
 
 ![](https://github.com/DobgimaM/Dob-Portfolio/blob/main/DNA%20helix.png)
+
